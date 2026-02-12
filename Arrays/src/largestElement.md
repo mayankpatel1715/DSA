@@ -6,10 +6,10 @@ The `largest` function identifies the maximum numerical value within an integer 
 
 ## 2. Input & Output
 
-| Feature | Type | Description |
-|---------|------|-------------|
-| Input | `int[] arr` | A non-empty array of integers. |
-| Output | `int` | The maximum integer value present in the array. |
+| Feature | Type        | Description                                     |
+|---------|-------------|-------------------------------------------------|
+| Input   | `int[] arr` | A non-empty array of integers.                  |
+| Output  | `int`       | The maximum integer value present in the array. |
 
 ## 3. Thinking & Mental Model
 
